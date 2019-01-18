@@ -36,7 +36,7 @@ Functions used to control every earning, every client payment. Different filteri
    - v1.2 - 10/01/2019. Added the option of search and filter payments
 
 
-### - PEM: Payment Management:
+### - PM: Payment Management:
 
 Functions used to control every payment to other people with different criteria. Also useful to know how much you will earn depending on percentages, clients, people, ...
 
