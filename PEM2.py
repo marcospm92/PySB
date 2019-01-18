@@ -1,4 +1,4 @@
-# MoneyCalc
+# PEM - Payment and Earning Management
 # v1.1
 # 31/10/2018
 # Marcos Pérez Martín
