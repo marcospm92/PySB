@@ -1,4 +1,4 @@
-# PySMB
+# PySBM
 Python program with the purpose of managing a small business and learn how to code and improve while doing it.
 
 ## Modules
