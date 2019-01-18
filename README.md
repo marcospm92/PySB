@@ -23,9 +23,9 @@ Functions used to manage the client database/files. Add clients, edit data, dele
 Functions used to generate different reports, with the posibility of sending via email or exporting in pdf.
 
 
-### - CM: Charge Management:
+### - EM: Earning Management:
 
-Functions used to control every charge, every client payment. Different filtering of lists, etc.
+Functions used to control every earning, every client payment. Different filtering of lists, etc.
 
  - Changelog:
 
@@ -36,9 +36,9 @@ Functions used to control every charge, every client payment. Different filterin
    - v1.2 - 10/01/2019. Added the option of search and filter payments
 
 
-### - PEM: Payment and Earning Management:
+### - PEM: Payment Management:
 
-Functions used to control every payment to other people with different criteria. Also useful to know how much you will earn.
+Functions used to control every payment to other people with different criteria. Also useful to know how much you will earn depending on percentages, clients, people, ...
 
  - Changelog:
 
