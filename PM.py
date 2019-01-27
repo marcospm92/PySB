@@ -1,16 +1,17 @@
-# PM - Payment Management
+#!/usr/bin/env python
+# coding: utf-8
+# PySBM - Python Small Business Management. Payment Management Module
 # v1.1
-# 31/10/2018
+# 18/01/2019
 # Marcos Pérez Martín
 
-# Configuration of the program. On future versions maybe a different file that
-# can be changed inside program and loaded to have all variables.
+# Payment Management Module of the program.
+# Módulo de gestión de pagos a colaboradores.
 
-# If config_by_input == 0, the values used will be the included in the code
-# If config_by_input == 1, the program will ask the user to introduce the values
-config_by_input = 1
+import Config # Para tener todas las variables de configuracion
 
-if config_by_input == 0 : # config by code
+
+if Config.config_by_input == 0 : # config by code
 
     # Assign names to each different group and subgroup
     # Each group will have two different subgroups. For future versions ask how
